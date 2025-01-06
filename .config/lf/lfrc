@@ -1,1 +1,57 @@
+set hidden true
+set ignorecase true
 
+# Custom Functions
+cmd trash %set -f; mv "$fx" ~/.trash
+cmd smci $sudo make clean install; 
+cmd zip %zip -r "$f" "$f"
+
+cmd unarchive ${{
+	set -f
+	case $f in
+		*.tar.bz|*.tar.bz2|*.tbz|*.tbz2) tar xjvf $f;;
+		*.tar.gz|*.tgz) tar xzvf $f;;
+		*.tar.xz|*.txz) tar xJvf $f;;
+		*.zip) unzip -j $f;;
+		*.rar) unrar x $f;;
+		*.7z) 7z x $f;;
+	esac
+}}
+cmd open &{{
+	case $(file --mime-type -Lb $f) in
+		text/*) lf -remote "send $id \$$EDITOR \$fx";;
+		*) for f in $fx; do $OPENER $f > /dev/null 2> /dev/null & done;;
+	esac
+}}
+
+# Basic functions
+map t 
+map m
+
+map gl cd ~/.config/lf
+map gr cd / 
+map gM cd /mnt 
+map gt cd ~/.trash
+map gu cd /usr
+map ge cd /etc
+map gd cd ~/Downloads
+map gv cd ~/Videos
+map gp cd ~/Pictures
+map gm cd ~/Music
+map gc cd ~/.config
+map gs cd /usr/local/share
+map gb cd /usr/local/bin
+map gD cd /usr/share/doc
+
+map tT trash
+
+map s search
+
+map O $mimeopen -d "$f"
+
+map md :push %mkdir<space>
+map mf :push $vim<space>
+map mt :push %touch<space>
+map mz zip
+map mua unarchive
+map mc smci 
