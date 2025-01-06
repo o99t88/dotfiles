@@ -1,0 +1,75 @@
+sw_volume: 100
+audio_device_state:1:pipewire device
+audio_device_state:1:visualizer feed
+state: stop
+current: 51
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Jorge Ben Jor/Força Bruta/01 Oba, Lá Vem Ela.mp3
+1:Jorge Ben Jor/Força Bruta/02 Zé Canjica.mp3
+2:Jorge Ben Jor/Força Bruta/03 Domenica Domingava Num Domingo Linda Toda De Branco.mp3
+3:Jorge Ben Jor/Força Bruta/04 Charles Jr..mp3
+4:Jorge Ben Jor/Força Bruta/05 Pulo, Pulo.mp3
+5:Jorge Ben Jor/Força Bruta/06 Apareceu Aparecida.mp3
+6:Jorge Ben Jor/Força Bruta/07 O Telefone Tocou Novamente.mp3
+7:Jorge Ben Jor/Força Bruta/08 Mulher Brasileira.mp3
+8:Jorge Ben Jor/Força Bruta/09 Terezinha.mp3
+9:Jorge Ben Jor/Força Bruta/10 Força Bruta.mp3
+10:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/1 RIVER'S ISLAND.mp3
+11:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/2 ASPHALT LADY (AL.ver.).mp3
+12:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/3 DO IT AGAIN.mp3
+13:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/4 SATURDAY'S GENERATION.mp3
+14:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/5 KIMI NO HEART WA MARINE BLUE.mp3
+15:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/6 SAIGO NO NIGHT FLIGHT.mp3
+16:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/7 BECAUSE.mp3
+17:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/8 RAINY HARBOR LIGHT.mp3
+18:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/9 SILENT ROMANCE.mp3
+19:Jorge Ben Jor/Força Bruta/01 Oba, Lá Vem Ela.mp3
+20:Jorge Ben Jor/Força Bruta/02 Zé Canjica.mp3
+21:Jorge Ben Jor/Força Bruta/03 Domenica Domingava Num Domingo Linda Toda De Branco.mp3
+22:Jorge Ben Jor/Força Bruta/04 Charles Jr..mp3
+23:Jorge Ben Jor/Força Bruta/05 Pulo, Pulo.mp3
+24:Jorge Ben Jor/Força Bruta/06 Apareceu Aparecida.mp3
+25:Jorge Ben Jor/Força Bruta/07 O Telefone Tocou Novamente.mp3
+26:Jorge Ben Jor/Força Bruta/08 Mulher Brasileira.mp3
+27:Jorge Ben Jor/Força Bruta/09 Terezinha.mp3
+28:Jorge Ben Jor/Força Bruta/10 Força Bruta.mp3
+29:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/1 RIVER'S ISLAND.mp3
+30:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/2 ASPHALT LADY (AL.ver.).mp3
+31:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/3 DO IT AGAIN.mp3
+32:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/4 SATURDAY'S GENERATION.mp3
+33:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/5 KIMI NO HEART WA MARINE BLUE.mp3
+34:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/6 SAIGO NO NIGHT FLIGHT.mp3
+35:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/7 BECAUSE.mp3
+36:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/8 RAINY HARBOR LIGHT.mp3
+37:S.Kiyotaka & Omega Tribe/RIVER'S ISLAND/9 SILENT ROMANCE.mp3
+38:Jorge Ben Jor/Samba Esquema Novo/01 Mas, Que Nada!.mp3
+39:Jorge Ben Jor/Força Bruta/01 Oba, Lá Vem Ela.mp3
+40:Jorge Ben Jor/Força Bruta/02 Zé Canjica.mp3
+41:Jorge Ben Jor/Força Bruta/03 Domenica Domingava Num Domingo Linda Toda De Branco.mp3
+42:Jorge Ben Jor/Força Bruta/04 Charles Jr..mp3
+43:Jorge Ben Jor/Força Bruta/05 Pulo, Pulo.mp3
+44:Jorge Ben Jor/Força Bruta/06 Apareceu Aparecida.mp3
+45:Jorge Ben Jor/Força Bruta/07 O Telefone Tocou Novamente.mp3
+46:Jorge Ben Jor/Força Bruta/08 Mulher Brasileira.mp3
+47:Jorge Ben Jor/Força Bruta/09 Terezinha.mp3
+48:Jorge Ben Jor/Força Bruta/10 Força Bruta.mp3
+49:Jorge Ben Jor/Samba Esquema Novo/01 Mas, Que Nada!.mp3
+50:Jorge Ben Jor/Samba Esquema Novo/02 Tim Dom Dom.mp3
+51:Jorge Ben Jor/Samba Esquema Novo/03 Balança Pema.mp3
+52:Jorge Ben Jor/Samba Esquema Novo/04 Vem Morena Vem.mp3
+53:Jorge Ben Jor/Samba Esquema Novo/05 Chove Chuva.mp3
+54:Jorge Ben Jor/Samba Esquema Novo/06 É Só Sambar.mp3
+55:Jorge Ben Jor/Samba Esquema Novo/07 Rosa, Menina Rosa.mp3
+56:Jorge Ben Jor/Samba Esquema Novo/08 Quero Esquecer Você.mp3
+57:Jorge Ben Jor/Samba Esquema Novo/09 Uala Ualalá.mp3
+58:Jorge Ben Jor/Samba Esquema Novo/10 A Tamba.mp3
+59:Jorge Ben Jor/Samba Esquema Novo/11 Menina Bonita Não Chora.mp3
+60:Jorge Ben Jor/Samba Esquema Novo/12 Por Causa De Você, Menina.mp3
+playlist_end
