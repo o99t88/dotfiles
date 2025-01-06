@@ -1,1 +1,2 @@
-
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/ot/Pictures/wallpaper1.jpg' 
